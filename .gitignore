@@ -1,0 +1,6 @@
+*.class
+workspace.xml
+out/
+*_original.png
+testSavedMemory.xml
+src/test/

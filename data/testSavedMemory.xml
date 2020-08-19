@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<storedmemory>
+    <expressionanswerpair>
+        <expression>( 1 + 3.7 ) * 197</expression>
+        <result>925.9000000000001</result>
+    </expressionanswerpair>
+    <expressionanswerpair>
+        <expression>( tan pi ) - 3</expression>
+        <result>-3.0</result>
+    </expressionanswerpair>
+</storedmemory>
