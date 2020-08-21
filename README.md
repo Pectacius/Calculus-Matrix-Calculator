@@ -1,4 +1,4 @@
-# FunctionCalculator
+# Calculus Matrix Calculator
 
 Calculator that performs operations on functions
 
